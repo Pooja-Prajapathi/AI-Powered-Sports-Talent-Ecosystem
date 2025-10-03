@@ -5,3 +5,7 @@ By leveraging AI/ML, computer vision, and modern web technologies, the platform 
 **Frontend**: React + JavaScript
 **Database**: MongoDB
 **AI/Video Analysis**: Python (video_analyzer.py with MediaPipe for gesture and movement analysis)
+**Focus Areas**
+AI-Powered Analytics
+Sports Technology
+Inclusive Development
